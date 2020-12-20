@@ -5,8 +5,8 @@ Front-End Technologies: HTML, CSS, PHP.
 
 Back-End Technologies: Payment Gateway Integrated using PHP. Payment Gateway Integrated using RazorPay.
 
-Demo link:
+Demo link:https://www.linkedin.com/posts/ayesha-siddiquaaa_gripdec20-intern2020-github-activity-6746353480400699392-1jIH
 
-Hosting URL:
+
 
      
